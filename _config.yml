@@ -1,17 +1,37 @@
+# title: Sai Gokhale
+# description: A brief overview of my recent work and interests!
+# theme: just-the-docs
+
+# color_scheme: dark  # or light
+
+# search_enabled: false
+
+# url: https://saigokhale.github.io/portfolio
+
+# aux_links:
+#   Resume: https://drive.google.com/file/d/1Sm21QpEjcmuG8b7mihmO0Qo8CcSxy4yu/view
+
+# # Enable GitHub Pages support
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+
 title: Sai Gokhale
 description: A brief overview of my recent work and interests!
 theme: just-the-docs
 
-color_scheme: dark  # or light
+url: https://saigokhale.github.io
+baseurl: /portfolio  # Only include this if your site is hosted at /portfolio
 
-search_enabled: false
+# Configuration specific to the Just the Docs theme
+just-the-docs:
+  color_scheme: dark    # Move this inside just-the-docs block
+  search_enabled: false # Also move this inside just-the-docs block
 
-url: https://saigokhale.github.io/portfolio
+  aux_links:
+    Resume: https://drive.google.com/file/d/1Sm21QpEjcmuG8b7mihmO0Qo8CcSxy4yu/view
 
-aux_links:
-  Resume: https://drive.google.com/file/d/1Sm21QpEjcmuG8b7mihmO0Qo8CcSxy4yu/view
-
-# Enable GitHub Pages support
+# GitHub Pages plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
