@@ -3,10 +3,14 @@ description: A brief overview of my recent work and interests!
 theme: just-the-docs
 
 just-the-docs:
-  color_scheme: dark
-
+  color_scheme: dark  # or light
 
 url: https://saigokhale.github.io/portfolio
 
 aux_links:
   Template Repository: https://github.com/saigokhale/portfolio
+
+# Enable GitHub Pages support
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
