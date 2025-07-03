@@ -4,6 +4,8 @@ theme: just-the-docs
 
 color_scheme: dark  # or light
 
+search_enabled: false
+
 url: https://saigokhale.github.io/portfolio
 
 aux_links:
