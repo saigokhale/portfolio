@@ -1,6 +1,7 @@
 ---
 title: Experience
 nav_order: 2
+layout: just-the-docs
 ---
 
 # Experience
