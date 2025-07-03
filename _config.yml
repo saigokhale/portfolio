@@ -2,6 +2,10 @@ title: Sai Gokhale
 description: A brief overview of my recent work and interests!
 theme: just-the-docs
 
+just-the-docs:
+  color_scheme: dark
+
+
 url: https://saigokhale.github.io/portfolio
 
 aux_links:
