@@ -20,18 +20,10 @@ title: Sai Gokhale
 description: A brief overview of my recent work and interests!
 theme: just-the-docs
 
-url: https://saigokhale.github.io
-baseurl: /portfolio  # Only include this if your site is hosted at /portfolio
+url: https://saigokhale.github.io/portfolio
 
 # Configuration specific to the Just the Docs theme
-just-the-docs:
-  color_scheme: dark    # Move this inside just-the-docs block
-  search_enabled: false # Also move this inside just-the-docs block
-
-  aux_links:
-    Resume: https://drive.google.com/file/d/1Sm21QpEjcmuG8b7mihmO0Qo8CcSxy4yu/view
-
-# GitHub Pages plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+color_scheme: dark    # Move this inside just-the-docs block
+# search_enabled: false # Also move this inside just-the-docs block
+aux_links:
+  Resume: https://drive.google.com/file/d/1Sm21QpEjcmuG8b7mihmO0Qo8CcSxy4yu/view
