@@ -4,14 +4,11 @@ theme: just-the-docs
 
 url: https://saigokhale.github.io/portfolio
 
-# just-the-docs:
-color_scheme: dark
-search_enabled: false
 just_the_docs:
+  color_scheme: dark
+  search_enabled: false
   stylesheets:
-    - /assets/css/custom.css
+    - assets/css/custom.css
 
-# color_scheme: dark    # Move this inside just-the-docs block
-# search_enabled: false # Also move this inside just-the-docs block
 aux_links:
   Resume: https://drive.google.com/file/d/1Sm21QpEjcmuG8b7mihmO0Qo8CcSxy4yu/view
