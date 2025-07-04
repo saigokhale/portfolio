@@ -7,7 +7,8 @@ url: https://saigokhale.github.io/portfolio
 # just-the-docs:
 color_scheme: dark
 search_enabled: false
-stylesheets:
+just-the-docs:
+  stylesheets:
     - /assets/css/custom.css
 
 # color_scheme: dark    # Move this inside just-the-docs block
